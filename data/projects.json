@@ -1,5 +1,23 @@
 [
   {
+    "id": "Pantene - Pantips",
+    "titulo": "Pantene",
+    "subtitulo": "Pantips",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/PIv3eAne1Rc",
+    "principal": true,
+    "tags": [
+      "Natural",
+      "Jovem",
+      "Descolado",
+      "Cosméticos",
+      "Agradecimento",
+      "Quarentena",
+      "Simpatico",
+      "Tranquilo"
+    ]
+  },
+  {
     "id": "Amazon Prime Video - Grandes Estrelas",
     "titulo": "Amazon Prime",
     "subtitulo": "Grandes Estrelas",
