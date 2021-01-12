@@ -1,7 +1,7 @@
 [
   {
     "id": "Pantene - Pantips",
-    "titulo": "Locução: Pantene",
+    "titulo": "Locução: <br /> Pantene",
     "subtitulo": "Pantips",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/PIv3eAne1Rc",
@@ -502,7 +502,7 @@
       "Locutor Vendedor",
       "Varejo",
       "Criança",
-      "Promocional",
+      "Locução Promocional",
       "Agudo",
       "Infantil",
       "Brinquedo",
@@ -765,7 +765,7 @@
       "Zueira",
       "Locutor Vendedor",
       "Promoção",
-      "Promocional",
+      "Locução Promocional",
       "Camille Saint-Säens",
       "Site chinês",
       "Locutor Jovem",
@@ -1129,6 +1129,27 @@
       "Locutor Vendedor",
       "Locutor Sorridente",
       "Locução Feliz"
+    ]
+  },
+  {
+    "id": "Netshoes - Mais e Mais",
+    "titulo": "Locução: Netshoes",
+    "subtitulo": "Netshoes - Mais e Mais",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Of9xZP08Qn8",
+    "tags": [
+      "Varejo",
+      "Locutor Animado",
+      "Locução Rápida",
+      "Locutor Vendedor",
+      "Calçados",
+      "Vestimentas",
+      "Loja",
+      "Locutor Sorridente",
+      "Locução Feliz",
+      "Promoção",
+      "Locução Promocional"
+
     ]
   },
   {
