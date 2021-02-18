@@ -318,6 +318,41 @@
     ]
   },
   {
+    "id": "Daus - O Desafio nos Alimenta ES",
+    "titulo": "Locução: Daus",
+    "subtitulo": "O Desafio nos Alimenta Espanhol",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/jZ-WwiiQ5SU",
+    "principal": true,
+    "tags": [
+      "Locução Espanhol"
+      "Locução Natural",
+      "Lucução Inspiracional",
+      "Locutor Orgulhoso",
+      "Laticíneo",
+      "Oficial",
+      "Locução Institucional",
+      "Locução Emocionante"
+    ]
+  },{
+    "id": "Daus - O Desafio nos Alimenta EN",
+    "titulo": "Locução: Daus",
+    "subtitulo": "O Desafio nos Alimenta Inglês",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/kcl-LxGfFl0",
+    "principal": true,
+    "tags": [
+      "Locução Inglês",
+      "Locução Natural",
+      "Lucução Inspiracional",
+      "Locutor Orgulhoso",
+      "Laticíneo",
+      "Oficial",
+      "Locução Institucional",
+      "Locução Emocionante"
+    ]
+  },
+  {
     "id": "Adria - Dia dos Pais",
     "titulo": "Locução: Adria",
     "subtitulo": "Dia dos Pais",
@@ -1192,6 +1227,27 @@
     "subtitulo": "Netshoes - Mais e Mais",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Of9xZP08Qn8",
+    "tags": [
+      "Varejo",
+      "Locutor Animado",
+      "Locução Rápida",
+      "Locutor Vendedor",
+      "Calçados",
+      "Vestimentas",
+      "Loja",
+      "Locutor Sorridente",
+      "Locução Feliz",
+      "Promoção",
+      "Locução Promocional"
+
+    ]
+  },
+  {
+    "id": "Netshoes - App",
+    "titulo": "Locução: Netshoes",
+    "subtitulo": "Netshoes - App",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/P1baSy_VeNg",
     "tags": [
       "Varejo",
       "Locutor Animado",
