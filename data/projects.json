@@ -241,6 +241,36 @@
     ]
   },
   {
+      "id": "URA",
+      "titulo": "Locução: URA",
+      "subtitulo": "Espera Telefonica",
+      "tipo": "AUDIO",
+      "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/995795830&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/ura-espera-telefonica-atendimento-eletronico\" title=\"URA - Espera Telefônica - Atendimento Eletrônico\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">URA - Espera Telefônica - Atendimento Eletrônico</a></div>",
+      "imagem": "https://i1.sndcdn.com/artworks-b57ys7f8Pz4sR6IK-vt56Dw-t500x500.jpg",
+      "imagem_posicao": "center",
+      "imagem_altura": "100%",
+      "principal": "true",
+      "tags": [
+        "Humano",
+        "Palestra",
+        "Inspirador",
+        "Coach",
+        "Locutor Ensinando",
+        "Locutor Professor",
+        "Locução Motivacional",
+        "Interpretado",
+        "Faculdade",
+        "Universidade",
+        "Instituição de Ensino",
+        "Ensino Superior",
+        "Locutor Seguro",
+        "Locutor Jovem",
+        "Locução Informal",
+        "Locutor Animado",
+        "Locução Colorida"
+      ]
+    },
+  {
     "id": "Easy - Locutor Seguro de Viagem Internacional",
     "titulo": "Locução: Easy",
     "subtitulo": "Locutor Seguro de Viagem Internacional",
