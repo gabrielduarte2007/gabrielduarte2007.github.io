@@ -1,5 +1,22 @@
 [
   {
+    "id": "Aspirina - Seja Qual For a Dor de Cabeca",
+    "titulo": "Locução: Aspirina",
+    "subtitulo": "Seja Qual For a Dor de Cabeca",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/j20G7iLSjYs",
+    "principal": true,
+    "tags": [
+      "Robótico",
+      "Engraçado",
+      "Monótono",
+      "Flat",
+      "Máquina",
+      "Rápido",
+      "Humor"
+    ]
+  },
+  {
     "id": "Wizard - Os Melhores Motivos",
     "titulo": "Locução: Wizard",
     "subtitulo": "Os Melhores Motivos",
@@ -17,7 +34,6 @@
       "Locutor Vendedor",
       "Inscrições Abertas",
       "Locutor Animado"
-    
     ]
   },
   {
@@ -101,6 +117,26 @@
     "subtitulo": "Compreender Muda Tudo",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/K7AbmVkKCUs",
+    "principal": true,
+    "tags": [
+      "Locução Natural",
+      "Locução Inspiracional",
+      "Esperança",
+      "Ensino de línguas",
+      "Aplicativo",
+      "Locutor Calmo",
+      "Locutor Pensativo",
+      "Locutor Relaxado",
+      "Locutor Moderno",
+      "Locutor Tranquilo"
+    ]
+  },
+  {
+    "id": "Babbel - Significa Mais",
+    "titulo": "Locução: Babbel",
+    "subtitulo": "Significa Mais",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/CnMtQ3dyYHg",
     "principal": true,
     "tags": [
       "Locução Natural",
