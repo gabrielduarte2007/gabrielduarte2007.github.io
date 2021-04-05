@@ -1,22 +1,5 @@
 [
   {
-    "id": "Aspirina - Seja Qual For a Dor de Cabeca",
-    "titulo": "Locução: Aspirina",
-    "subtitulo": "Seja Qual For a Dor de Cabeca",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/j20G7iLSjYs",
-    "principal": true,
-    "tags": [
-      "Robótico",
-      "Engraçado",
-      "Monótono",
-      "Flat",
-      "Máquina",
-      "Rápido",
-      "Humor"
-    ]
-  },
-  {
     "id": "Wizard - Os Melhores Motivos",
     "titulo": "Locução: Wizard",
     "subtitulo": "Os Melhores Motivos",
