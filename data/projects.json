@@ -1,5 +1,21 @@
 [
   {
+    "id": "WhatsApp - Pagamentos Que Aproximam",
+    "titulo": "Locução: WhatsApp",
+    "subtitulo": "Pagamentos Que Aproximam",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/1l_QpgBw_Cs",
+    "principal": true,
+    "tags": [
+      "Assinatura",
+      "Natural",
+      "Jovem",
+      "Coloquial",
+      "Pagamento",
+      "Comunicador"
+    ]
+  },
+  {
     "id": "Aspirina - Seja Qual For a Dor de Cabeca",
     "titulo": "Locução: Aspirina",
     "subtitulo": "Seja Qual For a Dor de Cabeca",
@@ -1190,6 +1206,22 @@
       "Locutor Vendedor",
       "Locutor Amigo",
       "Locutor Simpático"
+    ]
+  },
+  {
+    "id": "WhatsApp - Dinheirinho de Aniversario",
+    "titulo": "Locução: WhatsApp",
+    "subtitulo": "Dinheirinho de Aniversario",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/uGGrVpsGPBQ",
+    "principal": true,
+    "tags": [
+      "Assinatura",
+      "Natural",
+      "Jovem",
+      "Coloquial",
+      "Pagamento",
+      "Comunicador"
     ]
   },
   {
