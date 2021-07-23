@@ -1,10 +1,10 @@
 [
   {
-    "id": "WhatsApp - Pagamentos Que Aproximam",
+    "id": "WhatsApp - Payments",
     "titulo": "Locução: WhatsApp",
-    "subtitulo": "Pagamentos Que Aproximam",
+    "subtitulo": "Payments",
     "tipo": "VIDEO",
-    "youtube": "https://youtu.be/1l_QpgBw_Cs",
+    "youtube": "https://youtu.be/tevwY2MABHI",
     "principal": true,
     "tags": [
       "Assinatura",
@@ -13,6 +13,27 @@
       "Coloquial",
       "Pagamento",
       "Comunicador"
+    ]
+  },
+  {
+    "id": "Becel - Siga o movimento involuntario",
+    "titulo": "Locução: Becel",
+    "subtitulo": "Siga o movimento involuntario",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/czNVhWj1IEs",
+    "principal": true,
+    "tags": [
+      "Conversado",
+      "Natural",
+      "Jovem",
+      "Interpretado",
+      "Dinamico",
+      "Comunicador",
+      "Jazz",
+      "Bagunça",
+      "Caos",
+      "Margarina",
+      "Locutor Descolado"
     ]
   },
   {
