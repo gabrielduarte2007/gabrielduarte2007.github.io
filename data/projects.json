@@ -214,6 +214,23 @@
     ]
   },
   {
+    "id": "Sedetur - Alagoas",
+    "titulo": "Sedetur",
+    "subtitulo": "Alagoas",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/VwcTrze-PLY",
+    "principal": true,
+    "tags": [
+      "Locução em Francês",
+      "Turismo",
+      "Inspiracional",
+      "Locução Otimista",
+      "Poliglota",
+      "Aerado",
+      "Regional"
+    ]
+  },
+  {
     "id": "CCXP 2019",
     "titulo": "Locução: CCXP",
     "subtitulo": "2019",
