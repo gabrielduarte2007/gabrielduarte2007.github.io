@@ -116,6 +116,8 @@
     "subtitulo": "O Desafio nos Alimenta",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/TQbQEV3Hek4",
+    "imagem_posicao": "center",
+    "imagem_altura": "180%",
     "principal": true,
     "tags": [
       "Inspiracional",
@@ -518,6 +520,8 @@
     "subtitulo": "O Desafio nos Alimenta Espanhol",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/jZ-WwiiQ5SU",
+    "imagem_posicao": "center",
+    "imagem_altura": "180%",
     "principal": true,
     "tags": [
       "Espanhol",
@@ -540,6 +544,8 @@
     "subtitulo": "O Desafio nos Alimenta Inglês",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/kcl-LxGfFl0",
+    "imagem_posicao": "center",
+    "imagem_altura": "180%",
     "principal": true,
     "tags": [
       "Inglês",
