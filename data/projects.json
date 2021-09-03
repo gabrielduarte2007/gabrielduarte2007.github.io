@@ -92,6 +92,33 @@
     ]
   },
   {
+    "id": "Petrobras - Spot Novas Fronteiras",
+    "titulo": "Petrobras",
+    "subtitulo": "Spot Novas Fronteiras",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116874840&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/petrobras-novas-fronteiras\" title=\"Petrobrás - Novas Fronteiras\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Petrobrás - Novas Fronteiras</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-9DGi37q6fhU9YFfy-QpuQdQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Rádio",
+      "Natural",
+      "Inspiracional",
+      "Governo",
+      "Alegre",
+      "Amigo",
+      "Feliz",
+      "Simpático",
+      "Esperança",
+      "Oficial",
+      "Orgulhoso",
+      "Padrão",
+      "Refinadora",
+      "Institucional"
+    ]
+  },
+  {
     "id": "Pantene - Pantips",
     "titulo": "Pantene",
     "subtitulo": "Pantips",
@@ -202,6 +229,28 @@
       "Recitado",
       "Narrador",
       "Padrão"
+    ]
+  },
+  {
+    "id": "Estacio - Megavestibular",
+    "titulo": "Estacio",
+    "subtitulo": "Megavestibular",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116875998&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/universidade-estacio-megavestibular\" title=\"Universidade Estácio - Megavestibular\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Universidade Estácio - Megavestibular</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-Xb2cvsAJgKz5KqfX-ksMWUQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Rádio",
+      "Universidade",
+      "Vestibular",
+      "Vendedor",
+      "Instituição de Ensino",
+      "Seguro",
+      "Jovem",
+      "Animado",
+      "Amigo"
     ]
   },
   {
@@ -443,6 +492,33 @@
       "Contador de histórias",
       "Jovem",
       "Turismo"
+    ]
+  },
+  {
+    "id": "Volkswagen - Spot Nivus",
+    "titulo": "Volkswagen",
+    "subtitulo": "Spot Nivus",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116875377&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/volkswagen-nivus\" title=\"Volkswagen - Nivus\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Volkswagen - Nivus</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-g5dHykZ7kGHCW06L-ea1YTA-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Rádio",
+      "Carro",
+      "Descolado",
+      "Moderno",
+      "Grave",
+      "Seguro",
+      "Sério",
+      "Bravo",
+      "Aerada",
+      "Pesada",
+      "Folgado",
+      "Impostada",
+      "Padrão",
+      "Lançamento"
     ]
   },
   {
@@ -2149,6 +2225,27 @@
     ]
   },
   {
+    "id": "Spotify Mentos - Fresh Sounds",
+    "titulo": "Spotify Mentos",
+    "subtitulo": "Fresh Sounds",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116274435&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/spotify-mentos-freshsounds-14\" title=\"Spotify Mentos - FreshSounds\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Spotify Mentos - FreshSounds</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-rDgLCulK3SO8bBel-C4dSUg-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Rádio",
+      "Vendedor",
+      "Varejo",
+      "Aplicativo",
+      "Animado",
+      "CTA",
+      "Alimentos",
+      "Padrão"
+    ]
+  },
+  {
     "id": "PIGPEG - Tutorial",
     "titulo": "PIGPEG",
     "subtitulo": "Tutorial",
@@ -2509,6 +2606,28 @@
     ]
   },
   {
+    "id": "Bradesco - Spot Credito Imobiliario",
+    "titulo": "Bradesco",
+    "subtitulo": "Spot Credito Imobiliario",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116276658&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/bradesco-credito-imobiliario\" title=\"Bradesco - Credito Imobiliario\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Bradesco - Credito Imobiliario</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-OAy4dju4fjKL4k5T-uCSuiw-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Rádio",
+      "Interpretado",
+      "Diálogo",
+      "Banco",
+      "Casal",
+      "Natural",
+      "Ator",
+      "Carinhoso",
+      "Personagem"
+    ]
+  },
+  {
     "id": "Unisc - Curso de Administração",
     "titulo": "Unisc",
     "subtitulo": "Curso de Administração",
@@ -2725,6 +2844,28 @@
     ]
   },
   {
+    "id": "Spotify - Phillips",
+    "titulo": "Spotify",
+    "subtitulo": "Phillips",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116276112&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/spotify-philips\" title=\"Spotify - Philips\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Spotify - Philips</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-G7m3mXKBRKFIq7jO-Ivz0SA-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Rádio",
+      "Varejo",
+      "Vendedor",
+      "Animado",
+      "Fone de Ouvido",
+      "Sorridente",
+      "Rápido",
+      "Aplicativo",
+      "Agudo"
+    ]
+  },
+  {
     "id": "Volkswagen - Rio Box",
     "titulo": "Volkswagen",
     "subtitulo": "Rio Box",
@@ -2815,6 +2956,26 @@
       "Concessionária",
       "Padrão",
       "Interno"
+    ]
+  },
+  {
+    "id": "Spotify Mondial - Ferramentas",
+    "titulo": "Spotify Mondial",
+    "subtitulo": "Ferramentas",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116276127&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/spotify-mondial-ferramentas\" title=\"Spotify Mondial - Ferramentas\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Spotify Mondial - Ferramentas</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-XxeQLmLfr8MU6KMz-Lsq9Qw-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Rádio",
+      "Eletrodomésticos",
+      "Natural",
+      "Simpático",
+      "Aplicativo",
+      "Padrão",
+      "Leve"
     ]
   },
   {
