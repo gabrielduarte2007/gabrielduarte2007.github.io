@@ -270,6 +270,26 @@
     ]
   },
   {
+    "id": "WS - Cancun",
+    "titulo": "WS",
+    "subtitulo": "Cancun",
+    "tipo": "VIDEO",
+    "youtube": "https://www.youtube.com/watch?v=pZ67cQamlkg",
+    "principal": true,
+    "tags": [
+      "Espanhol",
+      "Varejo",
+      "Energia",
+      "Animado",
+      "Gritado",
+      "Feliz",
+      "Agudo",
+      "Wesley Safadão",
+      "Rápido",
+      "Evento"
+    ]
+  },
+  {
     "id": "Babbel - Compreender Muda Tudo",
     "titulo": "Babbel",
     "subtitulo": "Compreender Muda Tudo",
