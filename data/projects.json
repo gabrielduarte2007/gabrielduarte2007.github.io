@@ -1,5 +1,25 @@
 [
   {
+    "id": "Natura - Kaiak",
+    "titulo": "Natura",
+    "subtitulo": "Kaiak",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/tevwY2MABHI",
+    "principal": true,
+    "tags": [
+      "Padrão",
+      "Natural",
+      "Inspirador",
+      "Esperança",
+      "Perfume",
+      "Cosméticos",
+      "Sonhador",
+      "Dinâmico",
+      "Seguro",
+      "Otimista"
+    ]
+  },
+  {
     "id": "WhatsApp - Payments",
     "titulo": "WhatsApp",
     "subtitulo": "Payments",
@@ -92,6 +112,25 @@
     ]
   },
   {
+    "id": "Nescafe - Origens do Brasil",
+    "titulo": "Nescafe",
+    "subtitulo": "Origens do Brasil",
+    "tipo": "VIDEO",
+    "youtube": "https://www.youtube.com/watch?v=GlUme9D8HUY",
+    "principal": true,
+    "tags": [
+      "Natural",
+      "Jovem",
+      "Descolado",
+      "Café",
+      "Bebida",
+      "Otimista",
+      "Simpático",
+      "Calmo",
+      "Explicando"
+    ]
+  },
+  {
     "id": "Petrobras - Spot Novas Fronteiras",
     "titulo": "Petrobras",
     "subtitulo": "Spot Novas Fronteiras",
@@ -160,6 +199,30 @@
       "Nostálgico",
       "Mágico",
       "Sussurrado"
+    ]
+  },
+  {
+    "id": "WhatsApp - Sair da Conversa",
+    "titulo": "WhatsApp",
+    "subtitulo": "Sair da Conversa",
+    "tipo": "VIDEO",
+    "youtube": "https://www.youtube.com/watch?v=TLlO5LaBRDw",
+    "principal": true,
+    "tags": [
+      "Assinatura",
+      "Natural",
+      "Coloquial",
+      "Pagamento",
+      "Comunicador",
+      "Aplicativo",
+      "Tecnologia",
+      "Cinema",
+      "Amigo",
+      "Otimista",
+      "Padrão",
+      "Calmo",
+      "Esperança",
+      "Drama"
     ]
   },
   {
@@ -2270,6 +2333,24 @@
     ]
   },
   {
+    "id": "Wonder - Brooklin",
+    "titulo": "Wonder",
+    "subtitulo": "Brooklin",
+    "tipo": "VIDEO",
+    "youtube": "https://www.youtube.com/watch?v=CaFR3rAokMw",
+    "tags": [
+      "Imobiliária",
+      "Informativa",
+      "Explicativo",
+      "Descritivo",
+      "Padrão",
+      "Jovem",
+      "Moderno",
+      "Cartelado",
+      "Inauguração"
+    ]
+  },
+  {
     "id": "PSA Corretora - Seguro Conectado Sura",
     "titulo": "PSA Corretora",
     "subtitulo": "Seguro Conectado Sura",
@@ -2287,6 +2368,25 @@
       "Rápida",
       "Vendedor",
       "Tutorial"
+    ]
+  },
+  {
+    "id": "Afya - Naped Day",
+    "titulo": "Afya",
+    "subtitulo": "Naped Day",
+    "tipo": "VIDEO",
+    "youtube": "https://www.youtube.com/watch?v=xHXUI-IiH4M",
+    "tags": [
+      "Informativa",
+      "Explicativo",
+      "Descritivo",
+      "Pandemia",
+      "Padrão",
+      "Jovem",
+      "Evento",
+      "Instituição de Ensino",
+      "Virada",
+      "Motivacional"
     ]
   },
   {
@@ -3385,6 +3485,22 @@
       "Previdência",
       "Banco",
       "Financeira"
+    ]
+  },
+  {
+    "id": "Simmons - Titanium",
+    "titulo": "Simmons",
+    "subtitulo": "Titanium",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/2rmOPUCV9SU",
+    "tags": [
+      "Calmo",
+      "Grave",
+      "Aerado",
+      "Prazer",
+      "Colchões",
+      "Lançamento",
+      "Sorridente"
     ]
   },
   {
