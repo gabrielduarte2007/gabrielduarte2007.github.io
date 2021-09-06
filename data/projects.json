@@ -117,6 +117,8 @@
     "subtitulo": "Origens do Brasil",
     "tipo": "VIDEO",
     "youtube": "https://www.youtube.com/watch?v=GlUme9D8HUY",
+    "imagem_posicao": "center",
+    "imagem_altura": "160%",
     "principal": true,
     "tags": [
       "Natural",
@@ -512,6 +514,8 @@
     "subtitulo": "CNCT",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/G_Tc1q8AcjM",
+    "imagem_posicao": "center",
+    "imagem_altura": "180%",
     "principal": true,
     "tags": [
       "Ministerio da Educacao",
