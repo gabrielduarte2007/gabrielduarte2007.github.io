@@ -44,6 +44,29 @@
     ]
   },
   {
+    "id": "WhatsApp - Criptografia",
+    "titulo": "WhatsApp",
+    "subtitulo": "Criptografia",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/jaYQVZ7WNCQ",
+    "tags": [
+      "Assinatura",
+      "Natural",
+      "Coloquial",
+      "Pagamento",
+      "Comunicador",
+      "Aplicativo",
+      "Tecnologia",
+      "Cinema",
+      "Amigo",
+      "Otimista",
+      "Padrão",
+      "Calmo",
+      "Esperança",
+      "Drama"
+    ]
+  },
+  {
     "id": "Becel - Siga o movimento involuntario",
     "titulo": "Becel",
     "subtitulo": "Siga o movimento involuntario",
@@ -52,6 +75,36 @@
     "principal": true,
     "tags": [
       "Conversado",
+      "Natural",
+      "Jovem",
+      "Rápido",
+      "Interpretado",
+      "Dinamico",
+      "Jazz",
+      "Bagunça",
+      "Caos",
+      "Margarina",
+      "Descolado",
+      "Comida",
+      "Humor",
+      "Amigo",
+      "Bronca",
+      "Motivacional",
+      "Comentado",
+      "Irônico",
+      "Interagindo"
+    ]
+  },
+  {
+    "id": "Becel - Involuntario EN",
+    "titulo": "Becel",
+    "subtitulo": "Siga o movimento involuntario (ingles)",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/BZh9R2FEdvE",
+    "principal": true,
+    "tags": [
+      "Conversado",
+      "Ingles",
       "Natural",
       "Jovem",
       "Rápido",
@@ -2157,6 +2210,46 @@
     ]
   },
   {
+    "id": "Ambev - Codigo Ambulante",
+    "titulo": "Ambev",
+    "subtitulo": "Codigo Ambulante",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1195059631&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/ambev-codigo-ambulante\" title=\"Ambev - Codigo Ambulante\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Ambev - Codigo Ambulante</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-I4xafB2oLyVwDMva-Bka4VQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Case",
+      "Informatico",
+      "Explicando",
+      "Bebida",
+      "Ação Publicitária",
+      "Campanha",
+      "Jornalístico",
+      "Neutro"
+    ]
+  },
+  {
+    "id": "Brivia - AES",
+    "titulo": "Brivia",
+    "subtitulo": "AES (espanhol)",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1195059649&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/brivia-aes\" title=\"Brivia - AES\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Brivia - AES</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-TKDJ0ZReuVm61pyw-Zzzh0w-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Espanhol",
+      "Informatico",
+      "Explicando",
+      "Institucional",
+      "Seguro",
+      "Padrão"
+    ]
+  },
+  {
     "id": "Honda - Spot Radio2",
     "titulo": "Honda",
     "subtitulo": "Spot2",
@@ -2514,7 +2607,7 @@
     "imagem_altura": "100%",
     "tags": [
       "Caipira",
-      "Conversadada",
+      "Conversada",
       "Personagem",
       "Humor",
       "Ator",
@@ -2532,6 +2625,40 @@
       "Cantado",
       "Relutante",
       "Agudo"
+    ]
+  },
+  {
+    "id": "TCL - Patrocinadora Oficial da Arbitragem Brasileira",
+    "titulo": "TCL",
+    "subtitulo": "Patrocinadora Oficial da Arbitragem Brasileira",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/zjHBU-RV_2Y",
+    "tags": [
+      "Futebol",
+      "Drama",
+      "Emoção",
+      "Televisão",
+      "Eletrônico",
+      "Motivacional",
+      "Seguro",
+      "Forte",
+      "Sério",
+      "Torcedor"
+    ]
+  },
+  {
+    "id": "Pao de Acucar - Especial Cafes",
+    "titulo": "Pao de Acucar",
+    "subtitulo": "Especial Cafes",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/QUqxDoOkkyc",
+    "tags": [
+      "Natural",
+      "Supermercado",
+      "Simpatico",
+      "Appetite Appeal",
+      "Leve",
+      "Tranquilo"
     ]
   },
   {
@@ -2630,6 +2757,22 @@
     ]
   },
   {
+    "id": "Oba - Time de Ouro",
+    "titulo": "Oba",
+    "subtitulo": "Time de Ouro",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/rzDfyFrCdSY",
+    "tags": [
+      "Supermercado",
+      "Interno",
+      "Pra Vendedor",
+      "Cool",
+      "Simpático",
+      "Padrão",
+      "Amigo"
+    ]
+  },
+  {
     "id": "Sebrae EAD - Institucional",
     "titulo": "Sebrae EAD",
     "subtitulo": "Institucional",
@@ -2650,6 +2793,30 @@
       "Blasé",
       "Impostada",
       "Educação"
+    ]
+  },
+  {
+    "id": "Bhrama - Bhramosidade",
+    "titulo": "Bhrama",
+    "subtitulo": "Bhramosidade",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1195059604&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/bhrama-bhramosidade\" title=\"Bhrama - Bhramosidade\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Bhrama - Bhramosidade</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-DwHp6Ur3lPza9NlL-2m38tQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "principal": "true",
+    "tags": [
+      "Rádio",
+      "Natural",
+      "Energia",
+      "Bebida",
+      "Alegre",
+      "Amigo",
+      "Feliz",
+      "Simpático",
+      "Cerveja",
+      "Conversado",
+      "Falado"
     ]
   },
   {
@@ -2761,6 +2928,48 @@
     ]
   },
   {
+    "id": "Amanco Wavin - Gear Up",
+    "titulo": "Amanco Wavin",
+    "subtitulo": "Gear Up",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1195059595&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/amanco-wavin-gear-up\" title=\"Amanco Wavin - Gear Up\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Amanco Wavin - Gear Up</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-3mrUclG5Ai5U2MUy-0MbkDw-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "tags": [
+      "Rádio",
+      "Entrevistado",
+      "Jogador",
+      "Construção",
+      "Futebol",
+      "Depoimento",
+      "João",
+      "Simpático"
+    ]
+  },
+  {
+    "id": "Francis - Desodorante",
+    "titulo": "Francis",
+    "subtitulo": "Desodorante",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1169262214&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/francis-spot-nordeste\" title=\"Francis - Spot Nordeste\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Francis - Spot Nordeste</a></div>",
+    "imagem": "	https://i1.sndcdn.com/artworks-OYDABzFWYTzg4aes-GANvkQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_altura": "100%",
+    "tags": [
+      "Rádio",
+      "Conversado",
+      "Sotaque Nordeste",
+      "Perfume",
+      "Sensual",
+      "Amigo",
+      "Falado",
+      "Simpático",
+      "Ator",
+      "Carinhoso"
+    ]
+  },
+  {
     "id": "Unifebe - Seleção pelo Histórico Escolar",
     "titulo": "Unifebe",
     "subtitulo": "Seleção pelo Histórico Escolar",
@@ -2845,6 +3054,24 @@
     ]
   },
   {
+    "id": "EcoSolar - Energia Inteligente",
+    "titulo": "EcoSolar",
+    "subtitulo": "Energia Inteligente",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/-8HZMQYI_zE",
+    "tags": [
+      "Institucional",
+      "Energia Solar",
+      "Ecologia",
+      "Confiante",
+      "Forte",
+      "Padrão",
+      "Oficial",
+      "Nostálgico",
+      "Emoção"
+    ]
+  },
+  {
     "id": "BV - Crédito Pessoal",
     "titulo": "BV",
     "subtitulo": "Crédito Pessoal",
@@ -2889,6 +3116,67 @@
       "Informativa",
       "Simpático",
       "Informal"
+    ]
+  },
+  {
+    "id": "Honda - Domino",
+    "titulo": "Honda",
+    "subtitulo": "Domino",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/t33G0ATnJlo",
+    "tags": [
+      "Jovem",
+      "Informativa",
+      "Amigo",
+      "Consorcio",
+      "Moto",
+      "Motocicleta",
+      "Moderno",
+      "Explicando",
+      "Descritivo",
+      "Informativa",
+      "Simpático",
+      "Informal"
+    ]
+  },
+  {
+    "id": "Brevant - Mensagem de Fim de Ano",
+    "titulo": "Brevante",
+    "subtitulo": "Mensagem de Fim de Ano",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/JFOVbPkOGFE",
+    "tags": [
+      "Aerado",
+      "Grave",
+      "Agronegócio",
+      "Poesia",
+      "Rimado",
+      "Emocionante",
+      "Motivacional",
+      "Otimista",
+      "Seguro",
+      "Calmo",
+      "Nostálgico"
+    ]
+  },
+  {
+    "id": "Brevant - Mensagem de Fim de Ano",
+    "titulo": "Brevante",
+    "subtitulo": "Mensagem de Fim de Ano",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/JFOVbPkOGFE",
+    "tags": [
+      "Aerado",
+      "Grave",
+      "Agronegócio",
+      "Poesia",
+      "Rimado",
+      "Emocionante",
+      "Motivacional",
+      "Otimista",
+      "Seguro",
+      "Calmo",
+      "Nostálgico"
     ]
   },
   {
@@ -2938,6 +3226,44 @@
       "Cool",
       "Credibilidade",
       "Amigo"
+    ]
+  },
+  {
+    "id": "Atlas - Como funciona a energia renovavel",
+    "titulo": "Atlas",
+    "subtitulo": "Como funciona a energia renovavel",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/nVOX5745zGE",
+    "tags": [
+      "Ecologia",
+      "Informativo",
+      "Jornalístico",
+      "Amigo",
+      "Explicando",
+      "Leve",
+      "Feliz",
+      "Tranquilo",
+      "Relaxado",
+      "Jovem",
+      "Tutorial"
+    ]
+  },
+  {
+    "id": "Veloe - Circuito Veloe",
+    "titulo": "Veloe",
+    "subtitulo": "Circuito Veloe",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/F28QK84LNtw",
+    "tags": [
+      "Pedágio",
+      "Pagamento",
+      "Varejo",
+      "Vendedor",
+      "Promoção",
+      "Amigo",
+      "Feliz",
+      "Enérgico",
+      "Jovem"
     ]
   },
   {
