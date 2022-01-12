@@ -536,6 +536,38 @@
     ]
   },
   {
+    "id": "Playstation - Black Friday",
+    "titulo": "Playstation",
+    "subtitulo": "Black Friday",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/_2Lk9MLPma8",
+    "tags": [
+      "Varejo",
+      "Vendedor",
+      "Animado",
+      "Feliz",
+      "Games",
+      "Promoção",
+      "Promocional"
+    ]
+  },
+  {
+    "id": "iFood - Cupons",
+    "titulo": "iFood",
+    "subtitulo": "Cupons",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/SSI5_7-aNII",
+    "tags": [
+      "Simpatico",
+      "Conversado",
+      "Animado",
+      "Feliz",
+      "Amigo",
+      "App",
+      "Aplicativo"
+    ]
+  },
+  {
       "id": "URA",
       "titulo": "URA",
       "subtitulo": "Espera Telefonica",
@@ -564,23 +596,41 @@
         "Colorida"
       ]
     },
-  {
-    "id": "Easy - Seguro de Viagem Internacional",
-    "titulo": "Easy",
-    "subtitulo": "Seguro de Viagem Internacional",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/_XNxBJLK7c0",
-    "tags": [
-      "Simpático",
-      "Corretora",
-      "Vendedor",
-      "Animado",
-      "Animação",
-      "Contador de histórias",
-      "Jovem",
-      "Turismo"
-    ]
-  },
+    {
+      "id": "Easy - Seguro de Viagem Internacional",
+      "titulo": "Easy",
+      "subtitulo": "Seguro de Viagem Internacional",
+      "tipo": "VIDEO",
+      "youtube": "https://youtu.be/_XNxBJLK7c0",
+      "tags": [
+        "Simpático",
+        "Corretora",
+        "Vendedor",
+        "Animado",
+        "Animação",
+        "Contador de histórias",
+        "Jovem",
+        "Turismo"
+      ]
+    },
+    {
+      "id": "Green Peace - Boizinhos",
+      "titulo": "Green Peace",
+      "subtitulo": "Boizinhos",
+      "tipo": "VIDEO",
+      "youtube": "https://youtu.be/4GHPsKZyMTc",
+      "tags": [
+        "Fantástico",
+        "Sátira",
+        "Imitação",
+        "Tadeu Schmidt",
+        "Cavalinhos",
+        "Personagem",
+        "Corrida",
+        "Ecologia",
+        "Política"
+      ]
+    },
   {
     "id": "Volkswagen - Spot Nivus",
     "titulo": "Volkswagen",
